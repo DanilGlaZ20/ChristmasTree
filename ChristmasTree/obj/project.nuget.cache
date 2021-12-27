@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZE2smWHT3QmdHI8TMSDAWRO2PDN+eAqWHQ8BmLNct9lx6ANjAGjfL6UEXgQrN9cMR7Pz4pCLunR25ynB5ihW0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79777\\RiderProjects\\алгоритмы и структуры данных\\ChristmasTree\\ChristmasTree\\ChristmasTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79777\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
